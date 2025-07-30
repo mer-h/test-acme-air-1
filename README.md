@@ -18,12 +18,6 @@ A simple Spring Boot 3 REST API to search flights and booking tickets using in-m
 ./gradlew test && ./gradlew bootRun
 ```
 
-
-## How to Run with Maven
-```
-mvn clean install && mvn spring-boot:run
-```
-
 ## Swagger / API Documentation
 ```
 http://localhost:8080/swagger-ui/index.html
